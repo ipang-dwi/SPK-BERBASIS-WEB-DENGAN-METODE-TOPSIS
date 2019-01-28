@@ -1,5 +1,7 @@
 SPK BERBASIS WEB DENGAN METODE TOPSIS
 
+<img src="https://img.shields.io/github/license/ipang-dwi/xdesktop.svg" /> <img src="https://img.shields.io/badge/lab-firstplato.com-red.svg" />
+
 Aplikasi Sistem Pedukung Keputusan (SPK) dengan metode Topsis berbasis web, menggunakan native PHP5.
 
 Semoga bisa bermanfaat, bagi yang ingin mempelajari :
